@@ -1,0 +1,7 @@
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\bin\Debug\LemonWay.Console.exe.config
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\bin\Debug\LemonWay.Console.exe
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\bin\Debug\LemonWay.Console.pdb
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\obj\Debug\LemonWay.Console.csproj.CoreCompileInputs.cache
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\obj\Debug\LemonWay.Console.exe
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\obj\Debug\LemonWay.Console.pdb
+C:\Users\AMROU\source\repos\LemonWay\LemonWay.Console\obj\Debug\LemonWay.Console.csprojResolveAssemblyReference.cache
